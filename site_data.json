@@ -1,0 +1,1145 @@
+{
+  "bc_sp": {
+    "anos": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "exportacao": [
+      1.48,
+      2.42,
+      5.0,
+      1.56,
+      2.0,
+      2.55,
+      5.63,
+      5.5,
+      6.11,
+      2.38,
+      4.14,
+      6.82,
+      2.35,
+      3.49,
+      3.38,
+      5.95,
+      3.78,
+      4.3,
+      6.35,
+      6.63,
+      8.77,
+      9.38,
+      7.54,
+      6.81,
+      5.89,
+      6.85
+    ],
+    "importacao": [
+      185.7,
+      140.15,
+      108.35,
+      110.14,
+      157.86,
+      187.14,
+      230.82,
+      248.7,
+      296.13,
+      219.88,
+      308.04,
+      355.52,
+      349.81,
+      353.6,
+      365.46,
+      247.55,
+      256.86,
+      413.01,
+      448.43,
+      402.28,
+      347.47,
+      376.87,
+      459.76,
+      357.21,
+      376.56,
+      340.46
+    ],
+    "saldo": [
+      -184.22,
+      -137.73,
+      -103.36,
+      -108.58,
+      -155.86,
+      -184.59,
+      -225.19,
+      -243.2,
+      -290.02,
+      -217.5,
+      -303.89,
+      -348.7,
+      -347.46,
+      -350.1,
+      -362.08,
+      -241.61,
+      -253.08,
+      -408.71,
+      -442.08,
+      -395.65,
+      -338.69,
+      -367.49,
+      -452.22,
+      -350.4,
+      -370.67,
+      -333.61
+    ]
+  },
+  "pib_setor": {
+    "setores": [
+      "Indústria Transformação",
+      "Serviço",
+      "Comércio",
+      "Atv. Financeiras",
+      "Administração Pública",
+      "Comunicação",
+      "Atv. Mobiliárias",
+      "Transporte",
+      "Construção",
+      "SIUP",
+      "Agropecuária",
+      "Extrativa Mineral"
+    ],
+    "valores": [
+      33.37220622647064,
+      16.60290152183136,
+      10.74081880937723,
+      8.666719647128337,
+      6.172886106152494,
+      5.236490237534083,
+      5.092899997323321,
+      5.030576153435814,
+      4.365011456890052,
+      2.133430335853655,
+      1.935967971602051,
+      0.6500915364009594
+    ]
+  },
+  "empregos_sp": {
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "valores": [
+      21.7,
+      21.7,
+      21.2,
+      20.2,
+      20.4,
+      20.0,
+      19.3,
+      19.1,
+      18.4,
+      17.3,
+      15.9,
+      15.7,
+      15.4,
+      15.3,
+      15.6,
+      15.2,
+      14.5,
+      14.9,
+      15.9
+    ]
+  },
+  "empregos_setor": {
+    "setores": [
+      "Serviço",
+      "Comércio",
+      "Indústria Transformação",
+      "Construção",
+      "Agropecuária",
+      "Sem Fins Lucrativos",
+      "SIUP",
+      "Administração Pública",
+      "Extrativa Mineral"
+    ],
+    "valores": [
+      51.1,
+      21.3,
+      16.0,
+      6.7,
+      2.6,
+      1.4,
+      0.7,
+      0.1,
+      0.1
+    ]
+  },
+  "cadeia": [
+    {
+      "estado": "MG",
+      "etapa": "SFP",
+      "empresa": "CADENCE",
+      "sede": "Estados Unidos",
+      "local": "Belo Horizonte",
+      "modelo": "nan",
+      "empregados": "269",
+      "superior": "253",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SC",
+      "etapa": "SFP",
+      "empresa": "CHIPUS",
+      "sede": "Brasil",
+      "local": "Florianópolis",
+      "modelo": "nan",
+      "empregados": "69",
+      "superior": "64",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "SFP",
+      "empresa": "EnSilica",
+      "sede": "Reino Unido",
+      "local": "Porto Alegre",
+      "modelo": "nan",
+      "empregados": "25",
+      "superior": "19",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "SFP",
+      "empresa": "HCL Technologies",
+      "sede": "Índia",
+      "local": "Campinas",
+      "modelo": "nan",
+      "empregados": "100",
+      "superior": "100",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "SFP",
+      "empresa": "IMPINJ",
+      "sede": "Estados Unidos",
+      "local": "Porto Alegre",
+      "modelo": "nan",
+      "empregados": "19",
+      "superior": "19",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "SFP",
+      "empresa": "Lumentum",
+      "sede": "Estados Unidos",
+      "local": "Campinas",
+      "modelo": "nan",
+      "empregados": "50",
+      "superior": "50",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "MG",
+      "etapa": "SFP",
+      "empresa": "RFIDo",
+      "sede": "Brasil",
+      "local": "Belo Horizonte",
+      "modelo": "nan",
+      "empregados": "10",
+      "superior": "8",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "SFP",
+      "empresa": "SILVACO",
+      "sede": "Estados Unidos",
+      "local": "Porto Alegre",
+      "modelo": "nan",
+      "empregados": "13",
+      "superior": "9",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "AM",
+      "etapa": "TMT",
+      "empresa": "Cal-Comp",
+      "sede": "Taiwan",
+      "local": "Manaus",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "PE",
+      "etapa": "TMT",
+      "empresa": "S4 Solar",
+      "sede": "Brasil",
+      "local": "Santo Agostinho",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "TMT",
+      "empresa": "ADATA",
+      "sede": "Taiwan",
+      "local": "Antônio Posse",
+      "modelo": "nan",
+      "empregados": "150",
+      "superior": "60",
+      "pd": "12",
+      "area_total": "7500",
+      "sala_limpa": "3000",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "TMT",
+      "empresa": "BRPhotonics",
+      "sede": "Brasil",
+      "local": "Campinas",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "MG",
+      "etapa": "TMT",
+      "empresa": "Sunew",
+      "sede": "Brasil",
+      "local": "Belo Horizonte",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RJ",
+      "etapa": "TMT",
+      "empresa": "Multi",
+      "sede": "Brasil",
+      "local": "Rio de Janeiro",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "TMT",
+      "empresa": "Zilia Tec",
+      "sede": "Brasil",
+      "local": "Atibaia",
+      "modelo": "nan",
+      "empregados": "512",
+      "superior": "221",
+      "pd": "10",
+      "area_total": "19000",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "TMT",
+      "empresa": "HT Micron",
+      "sede": "Brasil",
+      "local": "São Leopoldo",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "SP",
+      "etapa": "TMT",
+      "empresa": "BYD",
+      "sede": "China",
+      "local": "Campinas",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "TMT",
+      "empresa": "Hana Micron",
+      "sede": "Coreia do Sul",
+      "local": "São Leopoldo",
+      "modelo": "nan",
+      "empregados": "265",
+      "superior": "120",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "10000",
+      "comentarios": "—"
+    },
+    {
+      "estado": "MG",
+      "etapa": "TMT",
+      "empresa": "Brasil Componentes",
+      "sede": "Brasil",
+      "local": "Extrema",
+      "modelo": "nan",
+      "empregados": "52",
+      "superior": "26",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "560",
+      "comentarios": "—"
+    },
+    {
+      "estado": "RS",
+      "etapa": "FDS",
+      "empresa": "CEITEC",
+      "sede": "Brasil",
+      "local": "Porto Alegre",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "Fábrica paralisada. Linha CMOS, tecnologia 0,6 µm, wafers de 150 mm de diâmetro"
+    },
+    {
+      "estado": "MG",
+      "etapa": "FDS",
+      "empresa": "UNITEC",
+      "sede": "Brasil",
+      "local": "Ribeirão das Neves",
+      "modelo": "nan",
+      "empregados": "—",
+      "superior": "—",
+      "pd": "—",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "comentarios": "Fábrica paralisada"
+    }
+  ],
+  "incentivos": [
+    {
+      "pais": "Índia",
+      "lei": "India Semiconductor Mission (ISM)",
+      "beneficio": "50% de Suporte Fiscal sobre o CAPEX.",
+      "estrategia": "Transnacional: Soberania rápida via absorção de tecnologia.",
+      "fonte": "1. https://ism.gov.in/semiconductor-fab"
+    },
+    {
+      "pais": "EUA",
+      "lei": "CHIPS Act (Section 48D)",
+      "beneficio": "25% de Crédito Tributário de Investimento (ITC).",
+      "estrategia": "Transnacional: Segurança nacional e Friend-shoring.",
+      "fonte": "1. https://www.irs.gov/credits-deductions/advanced-manufacturing-investment-credit\n2. https://www.federalregister.gov/documents/2023/03/23/2023-05871/advanced-manufacturing-investment-credit"
+    },
+    {
+      "pais": "Japão",
+      "lei": "Economic Security Act",
+      "beneficio": "Até 50% de subsídio de construção + Depreciação acelerada.",
+      "estrategia": "Transnacional: Reindustrialização e cooperação.",
+      "fonte": "1. https://www.jetro.go.jp/en/invest/investment_environment/ijre/report2022/ch3/sec3.html"
+    },
+    {
+      "pais": "Coreia do Sul",
+      "lei": "K-Chips Act",
+      "beneficio": "15% a 25% de Crédito Fiscal.",
+      "estrategia": "Global: Eficiência de escala em memórias.",
+      "fonte": "1. https://ombudsman.kotra.or.kr/ik-en/cntnts/i-370/web.do\n2. https://elaw.klri.re.kr/eng_service/lawView.do?hseq=43262&lang=ENG"
+    },
+    {
+      "pais": "China",
+      "lei": "Guofa [2020] No. 8",
+      "beneficio": "10 anos de Tax Holiday (0% Imposto) < 28nm.",
+      "estrategia": "Transnacional/Estatista: Autossuficiência total.",
+      "fonte": "1. https://www.gov.cn/zhengce/content/2020-08/04/content_5532370.htm\n2. https://english.www.gov.cn/policies/latestreleases/202008/04/content_WS5f2956b4c6d029c1c26373f1.html"
+    },
+    {
+      "pais": "Taiwan",
+      "lei": "Statute for Industrial Innovation",
+      "beneficio": "25% Dedução P&D + 5% crédito máquinas.",
+      "estrategia": "Global: Liderança tecnológica e de custo.",
+      "fonte": "1. https://law.moea.gov.tw/EngLawContent.aspx?id=10684"
+    },
+    {
+      "pais": "Vietnã",
+      "lei": "Decree 94/2020/ND-CP",
+      "beneficio": "4 anos Isenção (0%) + 9 anos 50% redução.",
+      "estrategia": "Global (Eficiência): Atração de Back-end.",
+      "fonte": "1. https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Decree-No-218-2013-ND-CP-guiding-Law-on-corporate-income-tax-219876.aspx"
+    },
+    {
+      "pais": "Cingapura",
+      "lei": "Pioneer Certificate (EEIA)",
+      "beneficio": "0% de Imposto Corporativo por até 15 anos.",
+      "estrategia": "Transnacional: Hub de design e inteligência logística.",
+      "fonte": "1. https://www.crowe.com/sg/insights/key-tax-incentives-administered-by-edb-and-es"
+    },
+    {
+      "pais": "Malásia",
+      "lei": "Promotion of Investments Act",
+      "beneficio": "100% de Isenção (Pioneer Status) por 10 anos.",
+      "estrategia": "Global (Eficiência): Especialização em Back-end.",
+      "fonte": "1. https://www.hasil.gov.my/syarikat/insentif/pioneer-status/"
+    },
+    {
+      "pais": "UE",
+      "lei": "EU Chips Act / IPCEI",
+      "beneficio": "Subsídios de 30–40% do investimento via créditos tributários dos Estados-membros.",
+      "estrategia": "Transnacional: Resiliência automotiva (meta >50% valor local 2030).",
+      "fonte": "1. https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025DC0095"
+    },
+    {
+      "pais": "Brasil",
+      "lei": "Lei nº 14.968/24 (Brasil Semicon)",
+      "beneficio": "Zero IPI/PIS/COFINS em máquinas + Crédito PADIS.",
+      "estrategia": "Multidoméstica: Mercado interno e substituição de importação.",
+      "fonte": "1. https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14968.htm"
+    }
+  ],
+  "centros": [
+    {
+      "nome": "CBPF-LABNano",
+      "vinculacao": "MCTI",
+      "unidade": "Rio de Janeiro (RJ)",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    },
+    {
+      "nome": "CTI Renato Archer",
+      "vinculacao": "MCTI",
+      "unidade": "Campinas (SP)",
+      "area_total": "2000",
+      "sala_limpa": "950",
+      "pesquisadores": "47",
+      "doutores": "34",
+      "mestres": "7",
+      "receita": "5"
+    },
+    {
+      "nome": "IBTI",
+      "vinculacao": "Privado",
+      "unidade": "Brasília (DF)",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    },
+    {
+      "nome": "ISI Microeletrônica SENAI",
+      "vinculacao": "SENAI",
+      "unidade": "Manaus (AM)",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    },
+    {
+      "nome": "Instituto Eldorado",
+      "vinculacao": "Privado",
+      "unidade": "Campinas (SP)",
+      "area_total": "300",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    },
+    {
+      "nome": "ITT Chip UNISINOS",
+      "vinculacao": "UNISINOS",
+      "unidade": "São Leopoldo (RS)",
+      "area_total": "2500",
+      "sala_limpa": "750",
+      "pesquisadores": "50",
+      "doutores": "9",
+      "mestres": "11",
+      "receita": "0.6"
+    },
+    {
+      "nome": "LNNano",
+      "vinculacao": "MCTI",
+      "unidade": "Campinas (SP)",
+      "area_total": "200",
+      "sala_limpa": "32",
+      "pesquisadores": "18",
+      "doutores": "7",
+      "mestres": "2",
+      "receita": "—"
+    },
+    {
+      "nome": "Oninn (CSEM Brasil)",
+      "vinculacao": "Privado",
+      "unidade": "Belo Horizonte (MG)",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    },
+    {
+      "nome": "Von Braun",
+      "vinculacao": "Privado",
+      "unidade": "Campinas (SP)",
+      "area_total": "—",
+      "sala_limpa": "—",
+      "pesquisadores": "—",
+      "doutores": "—",
+      "mestres": "—",
+      "receita": "—"
+    }
+  ],
+  "laboratorios": [
+    {
+      "universidade": "PUC-Rio",
+      "laboratorio": "LabSem",
+      "areas": "Materiais e dispositivos III-V, crescimento MOVPE",
+      "sala_limpa": "~100",
+      "inct": "DISSE"
+    },
+    {
+      "universidade": "PUCRS",
+      "laboratorio": "NT-Solar",
+      "areas": "Células solares de silício, linha piloto",
+      "sala_limpa": "210",
+      "inct": "—"
+    },
+    {
+      "universidade": "Universidade Federal de Minas Gerais",
+      "laboratorio": "LNS",
+      "areas": "III-V, silício, 2D, MBE, nanodispositivos, sensores",
+      "sala_limpa": "~150",
+      "inct": "DISSE"
+    },
+    {
+      "universidade": "Universidade Federal de Minas Gerais",
+      "laboratorio": "LPCNano",
+      "areas": "Materiais, processos e nanodispositivos",
+      "sala_limpa": "120",
+      "inct": "NANOCARBONO"
+    },
+    {
+      "universidade": "Universidade Federal do Rio Grande do Sul",
+      "laboratorio": "LME",
+      "areas": "CMOS, sensores, defeitos, eletrônica orgânica",
+      "sala_limpa": "~200",
+      "inct": "NAMITEC"
+    },
+    {
+      "universidade": "Universidade Estadual de Campinas",
+      "laboratorio": "CCSNano",
+      "areas": "Tecnologias em silício, sensores, carbono nano, PIC",
+      "sala_limpa": "~500",
+      "inct": "NAMITEC"
+    },
+    {
+      "universidade": "Universidade Estadual de Campinas",
+      "laboratorio": "LPD",
+      "areas": "Materiais III-V, crescimento CBE, PIC, optoeletrônica",
+      "sala_limpa": "~100",
+      "inct": "NAMITEC"
+    },
+    {
+      "universidade": "Universidade de São Paulo",
+      "laboratorio": "LME",
+      "areas": "Microfabricação, CMOS, MEMS, silício amorfo",
+      "sala_limpa": "~300",
+      "inct": "INOE"
+    },
+    {
+      "universidade": "Universidade de São Paulo",
+      "laboratorio": "LSI",
+      "areas": "CMOS/SOI, MEMS, sensores, nanofabricação",
+      "sala_limpa": "~150",
+      "inct": "NAMITEC"
+    },
+    {
+      "universidade": "Universidade de São Paulo",
+      "laboratorio": "LNMS",
+      "areas": "Crescimento MBE, spintrônica, materiais III-V",
+      "sala_limpa": "~100",
+      "inct": "DISSE"
+    },
+    {
+      "universidade": "Universidade de São Paulo",
+      "laboratorio": "PO",
+      "areas": "Polímeros e dispositivos semicondutores orgânicos",
+      "sala_limpa": "—",
+      "inct": "INEO"
+    }
+  ],
+  "patentes_ano": {
+    "anos": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "contagem": [
+      34,
+      23,
+      38,
+      36,
+      62,
+      28,
+      38,
+      50,
+      51,
+      82,
+      43,
+      25,
+      45,
+      26,
+      80,
+      28
+    ]
+  },
+  "patentes_depositantes": {
+    "nomes": [
+      "QI [US]",
+      "IC [US]",
+      "SV [KR]",
+      "GEC [US]",
+      "NC [JP]",
+      "IBMC [US]",
+      "TJKK [JP]",
+      "CKK [JP]",
+      "HT [CN]",
+      "YMT [CN]",
+      "HM [KR]",
+      "USP [BR]",
+      "KP [NL]",
+      "SEGK [DE]"
+    ],
+    "valores": [
+      205,
+      96,
+      35,
+      21,
+      20,
+      17,
+      13,
+      8,
+      8,
+      7,
+      7,
+      6,
+      6,
+      5
+    ]
+  },
+  "patentes_status": {
+    "labels": [
+      "NÃO VÁLIDA",
+      "PENDENTE",
+      "PATENTE VIGENTE",
+      "PATENTE EXTINTA"
+    ],
+    "valores": [
+      302,
+      214,
+      158,
+      15
+    ]
+  },
+  "patentes_natureza": {
+    "labels": [
+      "ADMINISTRAÇÃO PÚBLICA",
+      "ENTIDADES EMPRESARIAIS",
+      "ENTIDADES SEM FINS LUCRATIVOS"
+    ],
+    "valores": [
+      24,
+      17,
+      10
+    ]
+  },
+  "patentes_categoria": {
+    "labels": [
+      "Dispositivos Semicondutores",
+      "Processamento de Dados Elétricos e Digitais",
+      "Processadores de Baixo Consumo de Energia",
+      "Dispositivos Elétricos de Estado Sólido",
+      "Memórias",
+      "Dispositivos Semicondutore"
+    ],
+    "valores": [
+      480,
+      155,
+      22,
+      17,
+      13,
+      1
+    ]
+  },
+  "custo_equipamentos": {
+    "items": [
+      "Monitor Multiparâmetro",
+      "Ventilador Artificial Eletrônico",
+      "Aparelho Ultrassonografia",
+      "Equipamento De Ressonância Magnética"
+    ],
+    "data": {
+      "Monitor Multiparâmetro": {
+        "Centro-Oeste": 1401392.46,
+        "Nordeste": 215348.48,
+        "Norte": 232601.45,
+        "Sudeste": 493118.59,
+        "Sul": 213418.57
+      },
+      "Ventilador Artificial Eletrônico": {
+        "Centro-Oeste": 1598490.62,
+        "Nordeste": 484399.34,
+        "Norte": 432824.53,
+        "Sudeste": 793736.18,
+        "Sul": 524517.24
+      },
+      "Aparelho Ultrassonografia": {
+        "Centro-Oeste": 1038780.27,
+        "Nordeste": 421358.89,
+        "Norte": 275870.31,
+        "Sudeste": 335126.82,
+        "Sul": 175076.57
+      },
+      "Equipamento De Ressonância Magnética": {
+        "Centro-Oeste": 6492211.61,
+        "Nordeste": 8677000.0,
+        "Norte": 6550000.0,
+        "Sudeste": 83953590.0
+      }
+    }
+  },
+  "teses_ano": {
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "dissertacao": [
+      2035,
+      2066,
+      2267,
+      2379,
+      2525,
+      2724,
+      2870,
+      2462,
+      2398,
+      2235,
+      691,
+      710
+    ],
+    "tese": [
+      667,
+      708,
+      758,
+      861,
+      881,
+      980,
+      996,
+      856,
+      904,
+      1005,
+      170,
+      185
+    ]
+  },
+  "teses_regiao": {
+    "labels": [
+      "SUDESTE",
+      "SUL",
+      "NORDESTE",
+      "CENTRO-OESTE",
+      "NORTE"
+    ],
+    "valores": [
+      17108,
+      7558,
+      6175,
+      2261,
+      1490
+    ]
+  },
+  "teses_ies": {
+    "labels": [
+      "USP",
+      "UFRGS",
+      "UEC",
+      "UFMG",
+      "UFSC"
+    ],
+    "valores": [
+      1534,
+      1176,
+      1022,
+      994,
+      941
+    ]
+  },
+  "teses_area": {
+    "labels": [
+      "EDUCAÇÃO",
+      "ENGENHARIAS III",
+      "ENGENHARIAS II",
+      "ENGENHARIAS IV",
+      "CIÊNCIAS AGRÁRIAS I"
+    ],
+    "valores": [
+      3673,
+      3466,
+      2437,
+      2145,
+      1954
+    ]
+  },
+  "empregos_nacional": {
+    "anos": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "valores": [
+      67144598,
+      65655882,
+      66214692,
+      66667417,
+      65921194,
+      70521981,
+      78488470,
+      81037467,
+      72782072
+    ]
+  },
+  "empregos_por_uf": {
+    "labels": [
+      "São Paulo",
+      "Minas Gerais",
+      "Rio De Janeiro",
+      "Paraná",
+      "Rio Grande Do Sul",
+      "Santa Catarina",
+      "Bahia",
+      "Goiás",
+      "Pernambuco",
+      "Ceará",
+      "Pará",
+      "Distrito Federal",
+      "Mato Grosso",
+      "Espírito Santo",
+      "Mato Grosso Do Sul",
+      "Maranhão",
+      "Amazonas",
+      "Paraíba",
+      "Rio Grande Do Norte",
+      "Alagoas",
+      "Piauí",
+      "Sergipe",
+      "Rondônia",
+      "Tocantins",
+      "Acre",
+      "Amapá",
+      "Roraima",
+      "Não informado"
+    ],
+    "valores": [
+      182438701,
+      68008862,
+      50801284,
+      43362029,
+      39063984,
+      34324366,
+      28891777,
+      21680641,
+      20309943,
+      19151506,
+      14523167,
+      14380365,
+      13478007,
+      12746511,
+      9663160,
+      9207682,
+      7878562,
+      7785206,
+      7493362,
+      6236488,
+      5446134,
+      4750131,
+      4433300,
+      3892126,
+      1666394,
+      1532744,
+      1277932,
+      9409
+    ]
+  },
+  "empregos_por_setor": {
+    "labels": [
+      "Serviço",
+      "Comércio",
+      "Industria Transformação",
+      "Administração Pública",
+      "Construção",
+      "Agropecuária",
+      "Sem Fins Lucrativos",
+      "SIUP - Serviços Industrias De Utilidade Pública",
+      "Extrativa Mineral",
+      "Não especificado"
+    ],
+    "valores": [
+      241902182,
+      130899122,
+      91437033,
+      87454797,
+      40923059,
+      24331611,
+      9551730,
+      5187120,
+      2735045,
+      12074
+    ]
+  },
+  "fontes": {
+    "BC_SP": "https://comexstat.mdic.gov.br/pt/geral/145479",
+    "Empregos": "https://observatorio.sebrae.com.br/data-explorer?cube=RAIS_workers&drilldowns%5B0%5D=Industry.Sector.Sector&drilldowns%5B1%5D=Year&drilldowns%5B2%5D=Geography.Municipality.State&locale=pt&measures%5B0%5D=Workers",
+    "Empregos_SP": "https://www.fiesp.com.br/indices-pesquisas-e-publicacoes/panorama-da-industria-de-transformacao-brasileira/",
+    "Empregos_Setor_SP": "https://observatorio.sebrae.com.br/data-explorer?cube=RAIS_workers&drilldowns%5B0%5D=Industry.Sector.Sector&drilldowns%5B1%5D=Year&drilldowns%5B2%5D=Geography.Municipality.State&locale=pt&measures%5B0%5D=Workers",
+    "PIB_Setor_SP": "https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9054-contas-regionais-do-brasil.html",
+    "Cadeia_Setor": "https://eubrdialogues.com/documentos/biblioteca/adjuntos/Report_EU-BRDialogues_Semiconductors--FINAL--EN.pdf",
+    "Centros": "https://eubrdialogues.com/documentos/biblioteca/adjuntos/Report_EU-BRDialogues_Semiconductors--FINAL--EN.pdf",
+    "Laboratórios": "https://eubrdialogues.com/documentos/biblioteca/adjuntos/Report_EU-BRDialogues_Semiconductors--FINAL--EN.pdf",
+    "Patentes_Setor": "https://www.gov.br/inpi/pt-br/assuntos/informacao/radares-tecnologicos",
+    "Custo_Equipamentos": "https://dadosabertos.compras.gov.br/swagger-ui/index.html",
+    "Dissertacoes_Teses": "https://cran.r-project.org/web/packages/capesR/capesR.pdf"
+  },
+  "indicadores_bc": {
+    "total_imp_bilhoes": 7643.8,
+    "total_exp_bilhoes": 127.1,
+    "saldo_bilhoes": -7516.7,
+    "razao": 60.2
+  }
+}
